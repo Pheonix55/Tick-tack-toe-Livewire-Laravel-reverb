@@ -98,7 +98,7 @@ php artisan serve
 
 ## Screenshots
 
-1. **Game Lobby (Both Players)** – https://www.awesomescreenshot.com/image/58925115?key=a5a6b53b70b56615f5eb7caca0d32a82 shows real-time lobby updates and player readiness  
+1. **Game Lobby (Both Players)** –![Game Screen](https://www.awesomescreenshot.com/image/58925115?key=a5a6b53b70b56615f5eb7caca0d32a82) shows real-time lobby updates and player readiness  
 3. **Game Screen (Both Players)** – demonstrates synchronized moves and turn indicators  
 4. **Game Finished Screen** – popup showing the winner for both players  
 
