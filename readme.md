@@ -45,9 +45,10 @@ This project demonstrates the use of **event-driven architecture in Laravel** to
 ## Installation
 
 1. Clone the repository:
+ 
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-livewire.git
+git clone https://github.com/Pheonix55/tic-tac-toe-livewire.git
 cd tic-tac-toe-livewire
 ```
 
@@ -97,9 +98,9 @@ php artisan serve
 
 ## Screenshots
 
-1. **Game Lobby (Both Players)** – shows real-time lobby updates and player readiness  
-2. **Game Screen (Both Players)** – demonstrates synchronized moves and turn indicators  
-3. **Game Finished Screen** – popup showing the winner for both players  
+1. **Game Lobby (Both Players)** – https://www.awesomescreenshot.com/image/58925115?key=a5a6b53b70b56615f5eb7caca0d32a82 shows real-time lobby updates and player readiness  
+3. **Game Screen (Both Players)** – demonstrates synchronized moves and turn indicators  
+4. **Game Finished Screen** – popup showing the winner for both players  
 
 ---
 
