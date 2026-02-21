@@ -1,4 +1,4 @@
-# Real-Time Multiplayer Tic-Tac-Toe
+<img width="1468" height="718" alt="Screenshot 2026-02-21 104302" src="https://github.com/user-attachments/assets/f8f4229b-2dd2-493c-950c-8a8a3064defc" /># Real-Time Multiplayer Tic-Tac-Toe
 
 A **multiplayer Tic-Tac-Toe game** built with **Laravel 12, Livewire 4, and Reverb broadcasting**, designed to handle **complex real-time event updates** and provide a seamless experience for two players.
 
@@ -98,13 +98,16 @@ php artisan serve
 ## Screenshots
 
 1. **Game Lobby (Both Players)**
-   ![Lobby Screen](https://www.awesomescreenshot.com/image/58925114?key=383f32ea211e03b75fb38895f5baf0f4)
+   <img width="908" height="471" alt="Screenshot 2026-02-21 104215" src="https://github.com/user-attachments/assets/8ee104d3-bca8-4dff-ba19-e9ec12da243c" />
+
 
 2. **Game Screen (Both Players)**
-   ![Game Screen](https://www.awesomescreenshot.com/image/58925115?key=a5a6b53b70b56615f5eb7caca0d32a82)
+   <img width="1468" height="718" alt="Screenshot 2026-02-21 104302" src="https://github.com/user-attachments/assets/a60039fe-b85d-43c7-93d8-407288d09757" />
+
 
 3. **Game Finished Screen**
-   ![Winning Screen](https://www.awesomescreenshot.com/image/58925116?key=9769689a0d94eed8a55c12b2bfc6b848)
+  <img width="1489" height="710" alt="Screenshot 2026-02-21 104205" src="https://github.com/user-attachments/assets/82199bd0-7fed-496d-acb7-a5cd8799df88" />
+
 
 ---
 
